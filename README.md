@@ -1,5 +1,5 @@
 # This is my individual projects in FPT University about Java OOP
-### It includes the following project:
+### It includes the following projects:
 * J1.L.P0021: Java console program to manage students
 * J1.S.P0011: Change base number system (16, 10, 2) program
 * J1.S.P0070: Login system of the Tien Phong Bank’s Ebank
